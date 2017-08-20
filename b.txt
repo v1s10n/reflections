@@ -1,0 +1,750 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+How Critical Reflection
+Triggers
+Transformative Learning
+Jack Mezirow
+To make meaning means to make sense of an experience; we
+make an interpretation of it. When we subsequently use this
+interpretation to guide decision making or action, then making
+meaning becomes learning. We learn differently when we are
+learning to perform than when we are learning to understand
+what is being communicated to us. Reflection enables us to
+cor-rect distortions in our beliefs and errors in problem solving.
+Critical reflection involves a critique of the presuppositions on
+which our beliefs have been built.
+This chapter elaborates on these ideas to attempt to develop
+a theoretical foundation for explaining how transformations
+occur in adult learning. The remainder of this volume
+addresses the ways educators can foster such learning.
+Learning may be defined as the process of making a new
+or revised interpretation of the meaning of an experience,
+which guides subsequent understanding, appreciation, and
+action. What we perceive and fail to perceive and what we
+think and fail to think are powerfully influenced by habits of
+expectation that constitute our frame of reference, that is, a set
+of assumptions that structure the way we interpret our
+experiences. It is not possible to understand the nature of adult
+learning or education without taking into account the cardinal
+role played by these habits in making meaning.
+1
+Chapter 1, Fostering Critical Reflection in Adulthood by J. Mezirow and
+Associates, 1990, Jossey Bass, pp. 1- 20.
+It is helpful to differentiate two dimensions of making meaning.
+Meaning schemes are sets of related and habitual expectations
+governing if-then, cause-effect, and category relationships as
+well as event sequences. We expect food to satisfy our hunger;
+turning the knob and pushing on a door to open it. We expect
+that it will take less time to get somewhere if we run rather than
+walk; that the sun will rise in the east and set in the west. When
+we open the front door, we expect to see our front lawn, not a
+tidal wave or a charging rhino. Meaning schemes are habitual,
+implicit rules for interpreting.
+Meaning perspectives are made up of higher-order schemata,
+theories, propositions, beliefs, prototypes, goal
+orientations, and evaluations, and what linguists call “networks
+of arguments.” Lover-beloved, teacher-student, employeremployee,
+priest-parishoner, and other familiar role
+relationships are predicated on established meaning perspectives
+involving habitual expectations familiar to everyone. Meaning
+perspectives refer to the structure of assumptions within which
+new experience is assimilated and transformed by one’s past
+experience during he process of interpretation. They involve the
+application of habits of expectation to objects or events to form
+an interpretation.
+2 Fostering Critical Reflection in Adulthood
+Structuring Meaning
+These habits of expectation are analyzed by the writers in
+other chapters of this book as personal constructs, perceptual
+filters, conceptual maps, metaphors, personal ideologies,
+repressed functions, and developmental stages. Learning styles
+such as “field dependent” and “field independent” are also habits
+of expectation that become meaning perspectives when used to
+interpret an event. All these habits of expectation and many other
+predispositions provide the presuppositions on which we make
+interpretations and take action.
+Meaning perspectives are also the distinctive ways an
+individual interprets experience at what developmental psychologists
+describe as different stages of moral, ethical, and ego development
+and different stages of reflective judgment. Meaning
+perspectives involve criteria for making value judgments and
+How Critical Reflection Triggers Learning 3
+for belief systems. We are familiar with conservative; liberal,
+and radical viewpoints and believe we can differentiate an Irishman
+from a Frenchman or a painting that is ugly from tree that
+is beautiful. Most meaning perspectives are acquired through
+cultural assimilation, but others, like positivist, behaviorist,
+Freudian, or Marxist perspectives, may be intentionally learned.
+Others are stereotypes we have unintentionally learned
+regarding what it means to be a woman, a parent, a manager, a
+patriot, a member of a particular racial group, or an older
+person. In addition to such sociocultural concepts, meaning
+perspectives may also involve ways of understanding and using
+knowledge and ways of dealing with feelings about oneself.
+The most familiar examples of a meaning perspective and
+of transformative learning come from the women’s movement
+(see Chapter Three). Within a very few years, hundreds of
+thousands of women whose personal identity, self-concept, and
+values had been derived principally from prescribed social
+norms and from acting out sex-stereotypical roles came to
+challenge these assumptions and to redefine their lives in their
+own terms. The women’s movement provided a support climate
+for this kind of personal reappraisal by publicizing the
+constraints on personal development, autonomy, and selfdetermination
+imposed by such stereotypes and by providing
+support groups and role models.
+Perspectives provide principles for interpreting. They involve
+symbol systems that represent “ideal types,” the qualities
+of which we project onto objects or events in our experience.
+What we then perceive is often seen as an instance of our
+symbolic categories. Both schemes and perspectives selectively
+order and delimit what we learn. They define our “horizons of
+expectation,” which, as Karl Popper emphasized, significantly
+affect the activities of perceiving, comprehending, and
+remembering meaning wit the context of communication
+(Berkson and Wettersten, 1984, p. 7).
+Meaning perspectives are, for the most part, uncritically
+acquired in childhood through the process of socialization, often
+in the context of an emotionally charged relationship with
+parents, teachers, or other mentors. The more intense the
+emotional
+context of learning and the more it is reinforced, the more deeply
+embedded and intractable to change are the habits of expectation
+that constitute our meaning perspectives. Experience strengthens,
+extends, and refines our structures of meaning by reinforcing our
+expectations about how things are supposed to be.
+Our habits of expectation are not merely taken-for-granted
+actions or reactions that tend to repeat themselves. They are
+dispositions and capabilities that make up our everyday involvement
+within situations that “make sense.” John Dewey saw habit
+as a structure of experience that enables one to make sense of a
+situation and consciousness itself as a possibility occasioned by
+our acquired habits of involvement. “Phenomenologically, the
+meaningfulness of present experience is an activity of habit, a
+‘tension’ between habitual grooves of sensitivity and the world,
+through which self and environment are simultaneously transformed”
+(Ostrow, 1987, p. 214-216). Believing, valuing, perceiving,
+thinking, and feeling are all affected by these patterns of
+sensibility and stylistic preference with which we interpret the
+meaning of objects and events.
+To describe meaning schemes and perspectives as powered
+by habits of expectation that construe and hence structure
+meaning is not to suggest that they exist as structures of the brain
+or storage bins for memory. Nor does it imply that experience
+automatically follows the “habitual grooves” of sensitivity and
+thus can only confirm our assumptions. This confirmation often
+happens, but it happens only as the result of the dynamic
+interaction between habit and the event being interpreted. The
+process is often mediated by reflection.
+Nonetheless, what we do and do not perceive, comprehend,
+and remember is profoundly influenced by our meaning schemes
+and perspectives. We trade off perception and cognition for relief
+from the anxiety generated when the experience does not
+comfortably fit these meaning structures (Goleman, 1985). When
+experience is too strange or threatening to the way we think or
+learn, we tend to block it out or resort to psychological defense
+mechanisms to provide a more compatible interpretation.
+4 Fostering Critical Reflection in
+Adulthood
+How Critical Reflection Triggers Learning 5
+Reflection and Making Meaning
+Reflection is generally used as a synonym for higher-order
+mental processes. Boud, Keogh, and Walker (1985, p. 3) refer to
+reflection as “a generic term for those intellectual and affective
+activities in which individuals engage to explore their
+experiences in order to lead to new understandings and
+appreciation.” By this definition, reflection would include
+making inferences, generaliza- tions, analogies, discriminations,
+and evaluations, as well as feeling, remembering, and solving
+problems. It also seems to refer to using beliefs to make an
+interpretation, to analyze, perform, discuss, or judge---however
+unaware one may be of doing so. Although such a broad
+definition faithfully reflects common usage, the term needs
+additional analysis to differentiate reflection from thinking or
+learning, of which it is a part.
+For Dewey (1933, p. 9), reflection referred to “assessing the
+grounds [justification] of one’s beliefs,” the process of rationally
+examining the assumptions by which we have been justifying our
+convictions. The critical dimension in Dewey’s definition is
+echoed in Webster’s International Dictionary (1950) as the
+“mental consideration of some subject matter, idea or purpose,
+often with a view to understanding or accepting it, or seeing it in
+its right relations.” Dewey’s definition provides us with a useful
+point of departure for understanding some fundamental
+distinctions regard- ing adult learning.
+Because we must accommodate to a life of continual and
+rapid change, most of what we learn is the result of our efforts to
+solve problems, from the infant’s problem of how to get fed to
+the adult’s problem of how to understand the meaning of life.
+Much of what we learn involves making new
+interpretations that enable us to elaborate, further differentiate,
+and re-inforce our long-established frames of reference or to
+create new meaning schemes. Perhaps even more central to adult
+learning than elaborating established. meaning schemes is the
+process of reflection bac on prior learning to determine whether
+what we have learned is justified under present circumstances.
+This is a crucial learning process egregiously ignored by learning
+theorists.
+Dewey and William James helped us understand that the process
+by which we define and solve problems becomes the context for
+most learning. What is important here is to make explicit the
+differences involved in reflecting on the content, process, or
+premises of problem solving.
+If reflection is understood as an assessment of how or why
+we have perceived, thought, felt, or acted, it must be
+differentiated from an assessment of how best to perform these
+functions when each phase of an action is guided by what we
+have learned before. Simply reflexively drawing on what one
+already knows in order to act is not the same thing as reflection.
+Instead, this is the way one often takes thoughtful action in
+playing chess or making an argument or otherwise using one’s
+wits while actively engaged. All human action, other than that
+which is purely habitual or thoughtless, is thoughtful action,
+which involves consciously drawing on what one knows to guide
+one’s action.
+Reflective action, understood as action predicated on a
+critical assessment of assumptions, may also be an integral part
+of decision making. Thoughtful action is reflexive but is not the
+same thing as acting reflectively to critically examine the
+justification for one’s beliefs. Reflection in thoughtful action
+involves a pause to reassess by asking, What am I doing wrong?
+The pause may be only a split second in the decision-making
+process. Reflection may thus be integral to deciding how best to
+perform or may involve an ex post facto reassessment. When
+applied to deciding how best to perform immediately, reflection
+becomes an integral element of thoughtful action. Consequently,
+although reflection and action are dialectic in their relationship,
+they should not be polarized as in Kolb (1984).
+Ex post facto reflection, which looks back on prior
+learning, may focus on assumptions about the content of the
+problem, the process or procedures followed in problem solving,
+or the presupposition on the basis of which the problem has been
+posed. Reflection on presuppositions is what we mean by critical
+reflection. These distinctions are graphically depicted in Figure
+1.1.
+Edward Cell (1984) makes a helpful distinction between
+active and reflective interpretation. The former can be a creative
+process but one involving our prejudices, distortions, and pro-
+6 Fostering Critical Reflection in Adulthood
+How Critical Reflection Triggers Learning 7
+Figure 1.1. Reflection.
+Reflective Action Nonreflective Action
+Thoughtful action
+with reflection
+Habitual
+action
+Thoughtful action
+without reflection
+Ex post facto
+reflection
+Instrumental Learning. When we engage in task-oriented
+problem solving-how to do something or how to perform---we
+are engaged in instrumental learning; reflection is significantly
+involved when we look back on content or procedural
+assumptions guiding the problem-solving process to reassess the
+efficacy of the strategies and tactics used. We look back to
+check on whether we have identified all the relevant options for
+action, correctly assessed the consequences of alternative
+hunches or hypotheses, controlled the right variables, used the
+best methods of problem solving and used them correctly and
+carefully, made inferences warranted from the evidence and as
+free from bias as possible, generalized from a dependably
+representative sample, and correctly interpreted the feedback on
+actions taken.
+We may also look to make sure that our actions have been
+consistent with our values, to see how well we are doing in
+relation to our goals, whether our attitude has been objective
+and our interpretations of the results convincing. This is how we
+vincialisms. Reflective interpretation is the process of
+correcting distortions in our reasoning and attitudes. Active
+interpretation is what is involved in thoughtful action; reflective
+interpretation, in reflective action.
+Presuppositions
+(critical reflection)
+Content Process
+reflect on the process by which we have learned meaning
+through instrumental problem solving. Metacognition is the
+term psychol-ogists use to refer to this process of knowing
+about cognitive states and their operations. The function of
+metacognition is seen as that of informing and regulating
+cognitive routines and strategies.
+Instrumental learning involves the process of learning to
+control and manipulate the environment or other people. Results
+can be empirically demonstrated. The criteria for judging the
+validity of our beliefs concerning prior instrumental learning
+reside in (1) an informed consensus regarding the logic of
+analysis and inference inherent in the paradigm of the problemsolving
+process we have used and (2) empirical evidence about
+whether our efforts have succeeded in solving the problem. We
+can measure changes resulting from our learning to solve
+problems in terms of productivity, performance, or behavior.
+The problem-solving process for instrumental learning is a
+familiar one. Essentially, it is the method of problem solving,
+canonized by the natural sciences, that we all use or misuse in
+learning how to do things.
+Communicative Learning. Not all learning involves
+learn-ing to do. Of even greater significance to most adult
+learning is understanding the meaning of what others
+communicate concerning values, ideals, feelings, moral
+decisions, and such concepts as freedom, justice, love, labor,
+autonomy, commitment, and democracy. When what is asserted
+or implied pertains to these norm-governed concepts,
+judgments, propositions, beliefs, opinions, or feelings, then
+determining the conditions under which such an assertion is
+valid requires a two-dimensional assessment. This includes a
+critique of the assertion itself. It also requires a critique of the
+relevant social norms and of cultural codes that determine the
+allocation of influence and power over whose interpretations are
+acceptable.
+Communicative learning focuses on achieving coherence
+rather than on exercising more effective control over the causeeffect
+relationship to improve performance, as in instrumental
+learning. The problem-solving process involved in instrumen-
+8 Fostering Critical Reflection in
+Adulthood
+Because instrumental learning involves learning to
+control and manipulate the environment or other people,
+results are amenable to empirical demonstration. Validating a
+belief in the realm of communicative learning involves making
+a judgment regarding the situation and its circumstances in
+which what is
+Validating Meaning
+How Critical Reflection Triggers Learning 9
+tal learning is the hypothetico-deductive approach. 1n communicative
+learning, the approach is one in which the learner
+attempts to understand what it meant by another through
+speech, writing, drama, art, or dance. Communicative
+learning is less a matter of testing hypotheses than of
+searching, often intuitively, for themes and metaphors by
+which to fit the unfamiliar into a meaning perspective, so
+than an interpretation becomes possible.
+In our encounters with the unfamiliar, we begin with
+par-tial insights to direct the way we collect additional data;
+com-pare incidents, key concepts, or words; and relate
+emergent patterns metaphorically to our meaning
+perspectives. When the properties of the event do not fit our
+existing schema, we create new meaning schemes to
+integrate them. Each item of relevant information becomes a
+building block of understanding, which is transformed by
+further insight. We continually move back and forth between
+the parts and the whole of that which we seek to understand
+and between the event and our habits of expec-tation,
+following the process described as the “hermeneutic cir-cle”
+(Bernstein, 1985, pp. 131-139). Over time, the resulting
+understanding can be further transformed as we come to
+discover its metaphoric significance in other experiential,
+theoretical, literary, or esthetic contexts.
+Reflection in communicative learning is a critical
+assess-ment of this distinctive process of problem solving,
+checking to make sure that we have accurately identified the
+distinguishing patterns of similarity and have found
+metaphoric labels that give them coherence in relation to a
+meaning perspective. Interpreting the unfamiliar is one major
+way meaning is construed. Another has to do with
+establishing the validity of an expressed idea.
+10 Fostering Critical Reflection in
+Adulthood
+asserted is justified. To understand the meaning of a
+sentence or any expressed idea, one must understand under
+what conditions it is true (in accord with what is) or valid
+(justifiable) (Habermas, 1984, p. 276). We can turn to an
+authority, tradition, or force to establish the validity of an
+assertion, or we can turn to a decision by rational
+discourse, that is, a consensus regarding its justification. In
+communicative learning there are no empirical tests of
+truth; we rely on consensual validation of what is asserted.
+In everyday situations, we challenge the validity of
+what is being communicated when we have doubts about
+the truth, comprehensibility, appropriateness (in relation to
+social norms), or authenticity (in relation to feelings) of
+what is said or about the truthfulness of the speaker or
+writer. Further dialogue is interrupted until we can satisfy
+ourselves that the problematic assertion is justifiable. We
+engage in reflective learning through the kind of discourse
+in which we bracket our prior judgments, attempt to hold
+our biases in abeyance, and, through a critical review of
+the evidence and arguments, make a determination about
+the justifiability of the expressed idea whose meaning is
+contested. This very special form of discourse is also
+distin-guished by its objective, which is to arrive at an
+agreement about the justification of an expressed idea as
+an end in itself.
+Because we are all trapped by our own meaning
+perspectives, we can never really make interpretations of
+our experience free of bias. Consequently, our greatest
+assurance of objectivity comes from exposing an expressed
+idea to rational and reflective discourse. Nonreflective
+learning is defined by Habermas (1976, p. 16) as learning
+that “takes place in action contexts in which implicitly
+raised theoretical and practical validity claims are naively
+taken for granted and accepted or rejected without
+discursive consideration.”
+To seek a consensus, we turn to those we feel are
+best informed, least biased, and most rational to critically
+assess the evidence and arguments and arrive consensually
+at the best judgment. As new evidence and new ways of
+seeing emerge, this provisional judgment about the
+validity of a disputed belief is subject to change. Because
+each situation in which an assertion
+How Critical Reflection Triggers Learning 11
+is true is significantly shaped by social norms and cultural
+codes, validity testing also implies a critical assessment of how
+appropriate they are at this time. As situations change, social
+norms change, and the validity of what is asserted is subject to
+change as well. The informed consensus we seek is provisional;
+it is the best we have at the moment. It may be changed with the
+addition of new evidence or new arguments based on a more
+inclusive paradigm or meaning perspective.
+Ideally, the consensus would be such that any informed,
+objective, and rational person who examined the evidence
+andheard the arguments would agree, much as it is assumed in a
+court case that one juror may be replaced with antoher, but the
+jury’s decision would be the same.
+In reality, the consensus on which we depend to validate
+expressed ideas almost never approximates the ideal. We never
+have complete information, are seldom entirely free from
+external or psychic coercion of some sort, are not always open
+to
+unfamiliar and divergent perspectives, may lack the ability to
+engage in rational and critically reflective argumentation,
+seldom insist that each participant have the freedom and
+equality to assume the same roles in the dialogue (to speak,
+challenge, cri-tique, defend), and only sometimes let our
+conclusions rest on the evidence and on the cogency of the
+arguments alone.
+Nevertheless, Habermas argues that these standards are
+implicit in the very nature of human communication. One would
+not participate in a discourse without implicitly accepting the
+supposition that genuine consensus is possible and that it can be
+distinguished from false consensus (McCarthy, 1978, pp. 307-
+308). As such, these standards can serve as a philosophical
+foundation and as criteria for judging both education and the
+social conditions prerequisite to free and full participation in
+reflective discourse. No need is more fundamentally human than
+our need to understand the meaning of our experience. Free, full
+participation in critical and reflective discourse may be
+interepreted as a basic human right. This concept suggests an
+epistemological foundation for understanding such constructs as
+rationality, freedom, objectivity, adult development, democratic
+participation, social responsibility, self-directedness, and adult
+education.
+12 Fostering Critical Reflection in Adulthood
+Critical Reflection
+Whereas reflection involves the assessment of the
+assumptions implicit in beliefs, including beliefs about how to
+solve problems, there is a special class of assumptions with
+which reflection has to deal that are quite different from these
+procedural considerations. While all reflection implies an
+element of critique, the term critical reflection will here be
+reserved to refer to challenging the validity of presuppositions
+in prior learning. (Although it would be more exact to speak of
+premise reflection, so many of us have used critical reflection to
+mean the same thing that it seems better to continue this
+practice.) Critical reflection addresses the question of the.
+Justification for the very premises on which problems are posed
+or defined in the first place. We very commonly check our prior
+learning to confirm that we have correctly proceeded to solve
+problems, but becoming critically aware of our own
+presuppositions involves challenging our established and
+habitual patterns of expectation, the meaning perspectives with
+which we have made sense out of our encounters with the
+world, others, and ourselves. To question the validity of a longtaken-
+for-granted meaning perspective predicated on a
+presupposition about oneself can involve the negation of values
+that have been very close to the center of one’s self-concept. An
+example is the time-honored definition of what it means to be a
+“good” woman, which was questioned through the
+consciousness raising of the women’s movement. Challenges
+and negations of our conventional criteria of self-assessment are
+always fraught with threat and strong emotion. Transformation
+of perspective has cognitive, affective, and conative dimensions.
+Taking action on a new transformative insight can be blocked
+by external or internal constraints (or both), by situational and
+psychic factors, or simply by inadequate information or lack of
+skill to proceed.
+We become critically reflective by challenging the established
+definition of a problem being addressed, perhaps by
+finding a new metaphor that reorients problem-solving efforts in
+a more effective way. This crucially important personal learning
+dynamic is analogous to the process of paradigm shift that
+Thomas Kuhn (1970) characterized as the way revolutions
+occur in science;
+How Critical Reflection Triggers Learning 13
+Which, after all, is only a more formal mode of inquiry for
+construing the meaning of experience. As we encounter new
+meaning perspectives that help us account for disturbing
+anomalies in the way we understand our reality, personal as
+well as scientific paradigm shifts can redirect the way we
+engage the world.
+By far the most significant learning experiences in
+adulthood involve critical self-reflection---reassessing the way
+we have posed problems and reassessing our own orientation to
+perceiving, knowing, believing, feeling, and acting. Arlin
+(1975) has found problem posing to be the most significant
+characteristic of adult development beyond the acquisition of
+formal operations in adolescence.
+Although reflection may be an integral part of making
+action decisions as well as an ex post facto critique of the process,
+critical reflection cannot become an integral element in
+the immediate action process. It requires a hiatus in which to
+reassess one’s meaning perspectives and, if necessary, to
+transform them. Critical reflection is not concerned with the
+how or the how-to of action but with the why, the reasons for
+and consequences of what we do.
+Adulthood is the time for reassessing the assumptions
+of our formative years that have often resulted in distorted
+views of reality. Our meaning schemes may be transformed
+through reflection upon anomalies. For example, a housewife
+goes to secretarial school in the evening and finds to her
+amazement that the other women do not have to rush home
+to cook dinner for their husbands as she does. Perspective
+transformations may occur through an accretion of such
+transformed meaning schemes. As a result of the
+transformation of several specific meaning schemes
+connected with her role as the traditional housewife, she
+comes to question her own identity as predicated upon
+previously assumed sex stereotypes.
+In addition, and more predictably, perspective
+transformation occurs in response to an externally imposed
+disorienting dilemma---a divorce, death of a loved one,
+change in job status,
+Perspective Transformation
+14 Fostering Critical Reflection in Adulthood
+Meaning perspectives are transformed through a
+critically reflective assessment of epistemic, sociocultural, and
+psychic distortions acquired through the process of introjection,
+the uncritical acceptance of another’s values. While it is
+desirable for learners to understand how ideology in the wider
+sense affects distorted epistemic and psychic beliefs, for
+purposes of making educational interventions these
+perspectives need to be differentiated from distorted, normative
+social beliefs, here designated as ideological.
+Distortions in Meaning Perspective
+retirement, or other. The distorting dilemma may be evoked
+by an eye-opening discussion, book, poem, or painting or by
+one’s efforts to understand a different culture that challenges
+one’s presuppositions. Anomalies and dilemmas of which old
+ways of knowing cannot make sense become catalysts or
+“trigger events” that precipitate critical reflection and
+transformations. Changing social norms can make it much
+easier to encounter, entertain, and sustain changes in
+alternative perspectives.
+Perspective transformation may be individual, as in
+psychotherapy; group, as in Freire’s (1970) learning circles or
+in “popular education” in Latin America; or collective, as in
+the civil rights, anti-Vietnam War, and women'’ movements.
+Perspective transformation is the process of becoming
+critically aware of how and why our presuppositions have
+come to constrain the way we perceive, understand, and feel
+about our world; of reformulating these assumptions to permit
+a more inclusive, discriminating, permeable, and integrative
+perspective; and of making decisions or otherwise acting
+upon these new understandings. More inclusive,
+discriminating, permeable, and integrative perspectives are
+superior perspectives that adults choose if they can because
+they are motivated to better understand the meaning of their
+experience. Meaning perspectives that permit us to deal with
+a broader range of experience, to be more discriminating, to
+be more open to other perspectives, and to better integrate our
+experiences are superior perspectives. There are three areas of
+common distortion in perspective.
+Epistemic Distortions. Epistemic distortions have to
+do with the nature and use of knowledge. The chapter in this
+volume by Kitchener and King elaborates on their extensive
+empirical investigation of reflective judgment, which has
+iden-tified the developmental stages by which we move
+away from the distorted presupposition that every problem
+has a correct solution if we could only find the right expert,
+and toward a provisional consensual judgment based upon
+critical discourse. Individuals at each stage have a
+distinctive meaning perspective about problem solving. It
+might be more accurate to refer to such earlier ways of
+knowing as less developed rather than distorted, although
+any way of construing meaning in adulthood other than one
+involving reflective judgment-- which is developmentally
+more inclusive, differentiating, permeable, and integrative--
+could be seen as a distortion of the ideal.
+Another epistemic distortion is reification, seeing a
+phe-nomenon produced by social interaction as immutable,
+beyond human control, like the law, the government, atomic
+warfare, environmental destruction, homelessness, famine,
+or the mil-itary-industrial complex. A third distortion is
+using as prescriptive knowledge that is based on description;
+for example, using what psychologists describe as life stages
+as standards for judging a particular individual’s
+development. Yet another distortion is regarding an
+abstraction as though it were an existing object, objectifying
+it (Whitehead’s “fallacy of misplaced concreteness”).
+Interpreting reality concretely when what is required is
+interpreting it abstractly is a familiar epistemic distortion.
+Still another is the early positivist supposition that only
+those propositions are meaningful that are empirically
+verifiable.
+How Critical Reflection Triggers Learning 15
+Sociocultural Distortions. Sociocultural distortions
+involve taking for granted belief systems that pertain to power
+and social relationships, especially those currently prevailing
+and legitimized and enforced by institutions. A common
+sociocultural distortion is mistaking self-fulfilling and selfvalidating
+beliefs for beliefs that are not self-fulfilling or selfvalidating.
+If we believe that members of a subgroup are lazy,
+unintelligent, and unreliable and treat them accordingly, they
+may become lazy,
+16 Fostering Critical Reflection in
+Adulthood
+unintelligent, and unreliable. We have created a self-fulfilling
+prophecy. When based on mistaken premises in the first place,
+such a belief becomes a distorted meaning perspective.
+Another distortion of this type is assuming that the particular
+interest of a subgroup is the general interest of the group as a
+whole (Geuss, 1981, p. 14). When people refer to ideology as
+a distorted belief system, they usually refer to what here is
+understood as socio-cultural distortion.
+As critical social theorists have emphasized, ideology
+can become a form of false consciousness in that it supports,
+stab-ilizes, or legitimates dependency-producing social
+institutions, unjust social practices, and relations of
+exploitation, exclusion, and domination. It reflects the
+hegemony of the collective, mainstream meaning perspective
+and existing power relationships that actively support the
+status quo. Ideology is a form of prereflective consciousness,
+which does not question the validity of existing social norms
+and resists critique of presuppositions. Such social amnesia is
+manifested in every facet of our lives--- in the economic,
+political, social, health, religious, educational, occupational,
+and familial. Television has become a major force in
+perpetuating and extending the hegemony of mainstream
+ideology.
+The work of Paulo Freire (1970) in traditional village
+cultures has demonstrated how an adult educator can
+precipitate as well as facilitate learning that is critically
+reflective of long-established and oppressive social norms.
+Psychic Distortions. Psychological distortions have to
+do with presuppositions generating unwarranted anxiety that
+impedes taking action. Psychiatrist Roger Gould’s
+“epigenetic” theory of adult development (1978, 1988)
+suggests that trau-matic events in childhood can result in
+parental prohibitions that though submerged from
+consciousness continue to inhibit adult action by generating
+anxiety feelings when there is a risk of breaching them. This
+dynamic results in a lost function--such as the ability to
+confront, to feel sexual, or take risks-that must be regained if
+one is to become a fully functioning adult.
+How Critical Reflection Triggers Learning 17
+Adulthood is a time of regaining such lost functions.
+The learner must be helped to identify both the particular
+action that he or she feels blocked about taking and the
+source and nature of stress in making a decision to act. The
+learner is assisted in identifying the source of this inhibition
+and differentiating between the anxiety that is a function of
+childhood trauma and the anxiety that is warranted by his or
+her immediate adult life situation. With guidance, the adult
+can learn to distinguish between past and present pressures
+and between irrational and rational feelings and to challenge
+distorting assumptions (such as “If I confront, I may lose all
+control and violently assault”) that inhibit taking the needed
+action and regaining the lost function.
+The psychoeducational process of helping adults learn
+to overcome such ordinary existential psychological
+distortions can be facilitated by skilled adult counselors and
+educators as well as by therapists. It is crucially important
+that they do so, inasmuch as the most significant adult
+learning occurs in con-nection with life transitions. While
+psychotherapists make transference inferences in a treatment
+modality, educators do not---but they can provide skillful
+emotional support and collaborate as co-learners in an
+educational context. Recent advances in counseling
+technology greatly enhance their potential for providing this
+kind of help. For example, Roger Gould’s therapeutic
+learning program in Chapter Seven represents an
+extraordinary resource for counselors and educators working
+with adults who are having trouble dealing with such
+stressful existential life transitions as divorce, retirement,
+returning to school or the work force, or a change in job
+status. This interactive, computerized program of guided
+self-study provides the learner with the clinical insights and
+many of the benefits associated with short-term
+psychotherapy. The counselor or educator provides
+emotional support, helps the learner think through choices
+posed by the program, explains its theoretical context,
+provides supplementary information relevant to the life
+transition, makes referrals, and leads group discussion as
+required.
+18 Fostering Critical Reflection in Adulthood
+Summary
+This chapter brie asdadafly adumbrates an emerging transormation
+theory of adult learning in which the construing of
+meaning is of central importance. Following Habermas (1984), I
+make a fundamental distinction between instrumental and
+communicative learning. I have identified the central function
+of reflection as that of validating what is known. Reflection, in
+the context of problem solving, commonly focuses on
+procedures or methods. It may also focus on premises.
+Reflection on premises iasdadadnvolves a critical review of distorted
+presuppositions that may be epistemic, sociocultural, or
+psychic. Meaning schemes and perspectives that are not viable
+are transformed through reflection. Uncritically assimilated
+meaning perspectives, which determine what, how, and why we
+learn, may be transformed through critical reflection. Reflection
+on one’s own premises can lead to transformative learning.
+In communicative learning, meaning is validated through
+critical discourse. The nature of discourse suggests ideal conditions
+for participation in a consensual assessment of the
+justifica- tion for an expressed or implied idea when its validity
+is in doubt. These ideal conditasdadadions of human communication
+provide a firm philosophical foundation for adult education.
+Transformative learning involves a particular function of
+reflection: reassessing the presuppositions on which our beliefs
+are based and acting on insights derived from the transformed
+meaning perspective that results from such reassessments. This
+learning may occur in the domains of either instrumental or
+communicative leaural, or psychic---from prior
+learning. This introductory chapter constitutes the framework in
+adult learning theory for understanding the efforts of the other
+chapter authors, who suggest specific approaches to emancipatory
+adult education.
+Emancipatory education is an organized effort to elp the
+learner challenge presuppositions, explore alternative perspectives,
+transform old ways of understanding, and act on new
+perspectives. In the final chapter, I will discuss themes, issues,
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If we have large file with 1000 of line of code then, undoing the file to a particular time stamp becomes easier with entire history on our disposal. Programmer can easily undo his/her work and save a lot of time.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+How can you use the commands git log and git diff to view the history of files?
+
+How might using version control make you more confident to make changes that could break something?    
