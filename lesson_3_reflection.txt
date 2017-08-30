@@ -1,5 +1,13 @@
 When would you want to use a remote repository rather than keeping all your work local?
-Remote repository is very useful in collaborating project when multiple people are accessing and commiting to the project. 
+Ans. Remote repository is very useful in collaborating project when multiple people are accessing and commiting to the project. 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-Because the changes I made may not be the final changes which I want.
+Ans. Because the changes I made may not be the final changes which I want.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Ans. Fork is cloning of a repository from others git hub account to yours. This is useful
+	when required repository is stored remotely on others git hub account.
+
+	Clone is making copy a repository either on same local machine or pull from github. This is useful when user have direct access to the repository (on local machine or git hub).
+
+	Branch is the new commit repository of parent repository, it is also a cloned repository. This is useful when working on new feature and don't want to change the master branch. 
